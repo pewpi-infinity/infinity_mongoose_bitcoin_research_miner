@@ -86,3 +86,29 @@ Two next paths that increase leverage.
 
 ### 🟧 Decision
 Immediate action.
+
+---
+
+## 🧱📜🧱 Research Ledger (mixed)
+📍 Timestamp: 2025-12-21T20:12:16Z
+
+### 🟨 Data Extraction
+- File count: 27
+- Code units: 12
+
+### 🧮 Calculating
+- Complexity score: 38
+- Growth readiness: HIGH
+
+### 🩷 Investigative
+Unknowns, risks, or missing primitives.
+
+### 🟩 Engineering / Tools
+Immediate scripts or automation that increase value.
+
+### 🟥 Routes Worth More
+Two monetizable paths with reasoning.
+
+### 🟧 Decisions
+Next action tied to value increase.
+

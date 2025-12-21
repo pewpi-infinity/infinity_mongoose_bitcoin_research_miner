@@ -1,13 +1,7 @@
-# Repo Goal — infinity_mongoose_bitcoin_research_miner
+# 🧱👑🧱 Repo Goal — infinity_mongoose_bitcoin_research_miner
 
-## Purpose
-Role inside Infinity / Octave ecosystem.
+Purpose: Monetizable Infinity asset
 
-## 30 Days
-Minimal working artifact.
-
-## 60 Days
-Automation + cross-repo links.
-
-## 90 Days
-Release-ready or synthesis.
+30 Days: 🧱⚙️🧱 structure + minimum function  
+60 Days: 🧱🍄🧱 growth + linkage  
+90 Days: 🧱💰🧱 sellable / leasable state
